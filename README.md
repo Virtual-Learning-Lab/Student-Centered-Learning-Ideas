@@ -12,3 +12,4 @@ Here you can work on ideas and rules before they are implemented in [General.pdf
 - Post a question in [r/StudentCenteredLearnin](https://www.reddit.com/r/StudentCenteredLearin/)
 - Post a question in the [discussion](https://github.com/Virtual-Learning-Lab/Student-Centered-Learning-Ideas/discussions) tab
 - Ask Stephen van Erkelens directly via [here](https://s.reddit.com/c/18jz8mg1rxuk5)
+- Ask for help in the [Discord server](https://discord.gg/PGcEHdDJ3t)
